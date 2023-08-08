@@ -1,0 +1,1 @@
+print("P94 -> Solving About Diamond Probelm \n-> Using C3 Linerization")
