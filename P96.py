@@ -1,0 +1,1 @@
+print("P96-> Project 10=>Quiz Game Of Python")
