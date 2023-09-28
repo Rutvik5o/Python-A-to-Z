@@ -1,0 +1,1 @@
+print("Internal Detail Hidden From User-> Abstraction")
