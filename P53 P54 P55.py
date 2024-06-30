@@ -1,1 +1,1 @@
-print("HangMan Project")
+print("HangMan Project") 
